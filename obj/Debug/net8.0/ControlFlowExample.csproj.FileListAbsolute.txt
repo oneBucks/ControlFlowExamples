@@ -1,0 +1,14 @@
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\bin\Debug\net8.0\ControlFlowExample.exe
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\bin\Debug\net8.0\ControlFlowExample.deps.json
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\bin\Debug\net8.0\ControlFlowExample.runtimeconfig.json
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\bin\Debug\net8.0\ControlFlowExample.dll
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\bin\Debug\net8.0\ControlFlowExample.pdb
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.AssemblyInfoInputs.cache
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.AssemblyInfo.cs
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.csproj.CoreCompileInputs.cache
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.dll
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\refint\ControlFlowExample.dll
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.pdb
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.genruntimeconfig.cache
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ref\ControlFlowExample.dll
