@@ -104,3 +104,12 @@ switch(score){
     break;
 }
 Console.WriteLine("Grade: "+ grade);
+
+
+//Ternary example
+int score = 85;
+char grade;
+
+grade = score >= 90 ? 'A' : score >= 80 ? 'B' : score >= 70 ? 'C' : score >= 60 ? 'D' : 'F';
+
+Console.WriteLine("Your grade is: " + grade);
