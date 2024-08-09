@@ -12,3 +12,4 @@ c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\D
 c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.pdb
 c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.genruntimeconfig.cache
 c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ref\ControlFlowExample.dll
+c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\obj\Debug\net8.0\ControlFlowExample.sourcelink.json

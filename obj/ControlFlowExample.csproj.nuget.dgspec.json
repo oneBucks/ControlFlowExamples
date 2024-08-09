@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\ControlFlowExample.csproj": {}
+    "c:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\ControlFlowExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\ControlFlowExample.csproj": {
+    "c:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\ControlFlowExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\ControlFlowExample.csproj",
+        "projectUniqueName": "c:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\ControlFlowExample.csproj",
         "projectName": "ControlFlowExample",
-        "projectPath": "C:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\ControlFlowExample.csproj",
+        "projectPath": "c:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\ControlFlowExample.csproj",
         "packagesPath": "C:\\Users\\RostyslavHarasymiak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\obj\\",
+        "outputPath": "c:\\Users\\RostyslavHarasymiak\\Desktop\\Practice\\Practice!\\ControlFlowExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

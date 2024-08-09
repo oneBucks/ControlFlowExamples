@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ControlFlowExample
-build_property.ProjectDir = C:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\
+build_property.ProjectDir = c:\Users\RostyslavHarasymiak\Desktop\Practice\Practice!\ControlFlowExample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

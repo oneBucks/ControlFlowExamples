@@ -43,7 +43,8 @@
 //     Console.WriteLine("Index is " + i + " number is " + numbers[i]);
 // }
 
-//Scale grade - delivarable
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                                             //Scale grade - delivarable//
 //A: 90-100
 //B: 80-89
 //C: 70-79
@@ -84,32 +85,51 @@
 //C: 70-79
 //D: 60-69
 //F: below 60
-int score = 75;
-char grade;
-switch(score){
-    case >= 90:
-        grade = 'A';
-    break;
-    case >=80:
-        grade = 'B';
-    break;
-    case >=70:
-        grade = 'C';
-    break;
-    case >= 60:
-        grade = 'D';
-    break;
-    default:
-        grade = 'F';
-    break;
-}
-Console.WriteLine("Grade: "+ grade);
+// int score = 75;
+// char grade;
+// switch(score){
+//     case >= 90:
+//         grade = 'A';
+//     break;
+//     case >= 80:
+//         grade = 'B';
+//     break;
+//     case >= 70:
+//         grade = 'C';
+//     break;
+//     case >= 60:
+//         grade = 'D';
+//     break;
+//     default:
+//         grade = 'F';
+//     break;
+// }
+// Console.WriteLine("Grade: "+ grade);
 
 
 //Ternary example
-int score = 85;
-char grade;
+// int score = 85;
+// char grade;
 
-grade = score >= 90 ? 'A' : score >= 80 ? 'B' : score >= 70 ? 'C' : score >= 60 ? 'D' : 'F';
+// grade = score >= 90 ? 'A' : score >= 80 ? 'B' : score >= 70 ? 'C' : score >= 60 ? 'D' : 'F';
 
-Console.WriteLine("Your grade is: " + grade);
+// Console.WriteLine("Your grade is: " + grade);
+
+//IfElse example
+ int score = 55;
+
+ if(score >= 90){
+    Console.WriteLine("Your grade is A");
+ }
+ else if(score >= 80){
+    Console.WriteLine("Your grade is B");
+ }
+ else if(score >= 70){
+    Console.WriteLine("Your grade is C");
+ }
+ else if(score >= 60){
+    Console.WriteLine("Your grade is D");
+ }
+ else{
+    Console.WriteLine("Your suck!!!");
+ }
